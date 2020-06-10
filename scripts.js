@@ -14,4 +14,9 @@ $("#third").on("click", () => {
 })
 //When the user clicks on the last button, change the background-color of each button
 
+$("#myInput").on("click", () =>{
+  $("button").css("background-color", "InputVal")
 
+
+
+}
