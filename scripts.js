@@ -14,6 +14,4 @@ $("#third").on("click", () => {
 })
 //When the user clicks on the last button, change the background-color of each button
 
-$("#third").on("hover", () => {
-  $("button").css("background-color", "white");
-})
+
