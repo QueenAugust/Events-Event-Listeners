@@ -1,0 +1,9 @@
+buttonbutton{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background: white;
+    border: 1px solid lightgrey;
+    box-shadow: 0px 0px 8px 2px lightgrey;
+    cursor: pointer;
+  }
